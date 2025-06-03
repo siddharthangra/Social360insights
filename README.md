@@ -15,8 +15,8 @@ This fragmented approach leads to missed opportunities, inefficient resource all
 
 
 # Insights
-
 A single page report was created on Power BI Desktop.
+![Screenshot 2025-06-03 123219](https://github.com/user-attachments/assets/15e701dc-653b-46eb-b0e5-1009842cf7af)
 
 Following inferences can be drawn from the dashboard;
 
@@ -40,6 +40,8 @@ Following inferences can be drawn from the dashboard;
  Europe and South Korea has been seen more engaging towards the content overall. 
  Though Twitter can be seen influecing part of Asia and India as well. 
  At the same time Reddit taked it hold all over the map to most extent.
+ ![Screenshot 2025-06-03 123257](https://github.com/user-attachments/assets/7aa7e936-42f7-4cc2-a9cb-61f9dd66edd2)
+
 
 
 #### Yearly insights
@@ -57,4 +59,5 @@ Youtube : Active in breaks of 2-3 hours whole day.
 instagram : Users mostly active towards the evening.
 
 Twitter : Stagnant engagement over whole day with a lil peak now and then.
+![Screenshot 2025-06-03 123327](https://github.com/user-attachments/assets/2f6f19aa-613e-4ef6-bcbb-97e85d38ca28)
 
