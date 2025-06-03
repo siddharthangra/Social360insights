@@ -13,6 +13,9 @@ In today's multi-platform social media landscape, businesses lack a centralized 
 
 This fragmented approach leads to missed opportunities, inefficient resource allocation, and suboptimal social media ROI.
 
+Rought layout before actual dashboard: 
+![Screenshot 2025-06-03 124445](https://github.com/user-attachments/assets/712d3a5f-8fba-4250-882b-4af2f2d7c326)
+
 
 # Insights
 A single page report was created on Power BI Desktop.
